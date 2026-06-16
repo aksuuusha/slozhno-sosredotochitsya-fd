@@ -21,19 +21,4 @@
   --main-line-height: 23.4px;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    --bg-color: #fff1f7;
-    --bg-image: url(../images/cover-image-light.png);
-    --text-color: #353430;
-    --title-color: #ffc2e6;
-    --accent-color: #ff8dcb;
-    --corner-color: #353430;   /* уголки светлой темы — тёмные */
-    --title-decor-color: #353430;
-    --section-title-color: #353430;
-    --button-hover-border: rgba(50, 49, 45, 0.4);
-    --rec-visibility: hidden;
-  }
-}
-
 /* Опционально: адаптивные переменные, если нужно */

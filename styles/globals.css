@@ -7,11 +7,10 @@
 }
 
 body {
+  margin: 0 auto; 
   min-inline-size: 375px;
   max-inline-size: 1440px;
-  overflow-x: hidden;
   max-width: 100%;
-
 }
 
 h1,
